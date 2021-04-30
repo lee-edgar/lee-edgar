@@ -4,9 +4,10 @@
     - < ONE-Plus-ONE shopping mall Building >
     - < War-Stocks-Change-EDA >
   #### Training completion
-    - < web back-end developer training completion >
+    - < Web back-end developer training completion >
     - < FastCampus Data Science School 17 training completion >
   #### Interest
+    - < Data Science >
     - < Machine-Learning >
     - < Deep-Learning>
     - < Mdedical Science Topic, Cardiopulmonary resuscitation >
