@@ -14,6 +14,7 @@
  패스트캠퍼스 데이터사이언스 스쿨 17기수 과정 수료(6개월) <br>
  어반데이터랩 클라우드사업부 연구원 21.08.30 ~ 
  <hr>
+ <span style="color:red">Red Text</span>
  
   #### Project
     ## work project
