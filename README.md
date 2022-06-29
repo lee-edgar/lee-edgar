@@ -14,6 +14,10 @@
  2. 인공지능 청년인재양성 4차산업 주도기업 프로젝트 수료(6개월) <br>
  3. 패스트캠퍼스 데이터사이언스 스쿨 17기수 과정 수료(6개월) <br>
  4. 러닝스푼즈 바이오 딥러닝 : 의료 데이터로 환자 진단 및신약 개발 모델 구현하기 22.04.09 ~ 22.05.28
+ 5. Coursera, Professor Andrew NG) convolutional-neural-networks 강좌 2022.06.30 ~ 
+ 6. Inflearn, 권 철민) 딥러닝 CNN 완벽 가이드 - Fundamental 강좌
+ 7. Inflearn, 권 철민) 딥러닝 컴퓨터 비전 완벽 가이드 강좌
+ 
 
 ## 3. 커리어
  1. e-commerce 앱개발 <br>
